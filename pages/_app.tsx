@@ -15,5 +15,5 @@ function MyApp({ Component, pageProps }: AppProps) {
     </>
   );
 }
-
+// #1.7 Recap
 export default MyApp;
