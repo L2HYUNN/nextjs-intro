@@ -24,3 +24,9 @@ a {
     background: black;
   }
 }
+
+body {
+  max-width: 520px;
+  width: 100%;
+  margin: 0 auto;
+}
